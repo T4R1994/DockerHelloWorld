@@ -1,2 +1,14 @@
 # DockerHelloWorld
 How to fit the ASP.Net Core project to Docker
+
+# Sources
+
+Microsoft Docs  
+
+https://docs.microsoft.com/en-us/aspnet/core/security/authentication/ws-federation?view=aspnetcore-6.0  
+
+Blog with configuration ADFS and WebApp  
+
+https://blog.matrixpost.net/set-up-active-directory-federation-services-ad-fs-5-0-claim-aware-web-applications-create-an-asp-net-core-web-application-mvc-part-5/  
+
+https://blog.matrixpost.net/set-up-active-directory-federation-services-ad-fs-5-0-claim-aware-web-applications-create-an-asp-net-core-web-app-model-view-controller-using-openid-connect-part-7/  
