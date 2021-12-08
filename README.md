@@ -1,5 +1,5 @@
-# DockerHelloWorld
-How to fit the ASP.Net Core project to Docker
+# ADFS Hello World
+How to fit the ASP.Net Core project to using ADFS
 
 # Sources
 
