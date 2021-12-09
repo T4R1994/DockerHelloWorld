@@ -23,3 +23,11 @@ ADFS SPA
 
 https://stackoverflow.com/q/65819143
 
+Scaffold Login Page  
+
+https://stackoverflow.com/a/59819170  
+
+https://stackoverflow.com/questions/47790174/identityserver4-multiple-wsfederation-providers-cause-an-exception/47798431#47798431  
+
+https://github.com/IdentityServer/IdentityServer4/issues/1855#issue-281428054  
+
