@@ -42,7 +42,7 @@ namespace ADSFHelloWorld
 				options.MetadataAddress = "https://adfs.astor.com.pl/FederationMetadata/2007-06/FederationMetadata.xml";
 				// Wtrealm is the app's identifier in the Active Directory instance.
 				// For ADFS, use the relying party's identifier, its WS-Federation Passive protocol URL:
-				options.Wtrealm = "https://localhost:44342/";
+				options.Wtrealm = "https://tomaszkr:44342/";
 				// For AAD, use the Application ID URI from the app registration's Overview blade:
 				//options.Wtrealm = "api://bbd35166-7c13-49f3-8041-9551f2847b69";
 			});
